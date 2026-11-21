@@ -1,8 +1,20 @@
-# 📚 FOD
-Contenido de las consultas prácticas de la cátedra de "Fundamentos de Organización de Datos" de la Facultad de Informática UNLP 🖥️
+# Fundamentos de Organización de Datos (FOD)
 
-1. Archivos: Procesamiento secuencial, algorítmica clásica, creación y manipulación de archivos, merge, corte de control. Ejercitación.
-2. Archivos: Eliminación y modificación, registros de longitud fija y variable, algoritmos de recuperación de espacio, búsqueda secuencial y binaria, clasificación de archivos.
-3. Manejo de índices: Clasificación de grandes archivos, índices para mejora de performance, índices completos y raleados. Algorítmica clásica. Discusión sobre inconvenientes de índices clásicos.
-4. Árboles: Binario, AVL, árboles balanceados, definición y características. Árbol B* y B+: diferencias, operaciones de creación, inserción y borrado de elementos. Comparación con estructuras anteriores. Índices administrados como árboles. Discusión de ventajas y desventajas.
-5. Dispersión (hashing): Algoritmos simples de dispersión, funciones de dispersión, densidad de empaquetamiento, tratamiento de colisiones. Estudio de casos: saturación progresiva, saturación progresiva encadenada, área de desborde separada. Estudio numérico de saturación. Hashing dinámico. Definición, diferencias con hash estático. Estudio de casos. Hashing extensible.
+Prácticas resueltas en Pascal y material de estudio de FOD (Facultad de Informática, UNLP).
+
+## Estructura
+
+- `practica/`: resoluciones, explicaciones de práctica y material del parcial.
+- `libro/`: bibliografía de la cátedra.
+
+## Temas
+
+- Archivos: procesamiento secuencial, merge y corte de control
+- Bajas, modificaciones y recuperación de espacio; registros de longitud fija y variable
+- Índices y clasificación de archivos
+- Árboles B, B* y B+
+- Dispersión (hashing) estática y dinámica
+
+---
+
+Las resoluciones son propias y pueden tener errores. El material de cátedra (diapositivas, enunciados y parciales) pertenece a sus docentes y está incluido solo como referencia de estudio.
